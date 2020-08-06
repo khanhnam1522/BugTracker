@@ -20,6 +20,9 @@ appeared and view the ones that are already fixed. They can even use it like an 
 * Team chat for each team
 * Assigning labels to bugs
 
+### Demo:
+* https://bug-tracker-nt.herokuapp.com/
+
 ### This project was made with:
 * HTML 5
 * CSS 3
